@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scikit-image
+pillow
+h5py
